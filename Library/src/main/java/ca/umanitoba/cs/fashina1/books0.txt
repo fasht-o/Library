@@ -1,0 +1,5 @@
+Paul Halmos,Naive Set Theory,387900926
+Robin Hartshorne,Algebraic Geometry,387902449
+Allen Hatcher,Algebraic Topology,9780521795401
+John M. Lee,Introduction to Smooth Manifolds,387954481
+John M. Lee,Axiomatic Geometry,9780821884782
